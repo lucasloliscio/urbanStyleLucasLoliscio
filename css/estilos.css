@@ -82,6 +82,10 @@
 .ropa{
     text-align: center;
 }
+.contacto{
+    display: grid;
+    grid-template-columns:1fr 1fr ;
+}
 .pieDePagina{
     background-color:#06d4f8;
     font-weight: bold;
@@ -90,7 +94,7 @@
  .logos{
     text-align:center;
    /* transition:all .4s ease-in-out ;*/
-}
+} 
 .logoRedes{
   width:2% ;
   margin:1% ;
